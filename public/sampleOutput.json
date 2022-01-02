@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Trevor Hughes, Doyle Rice, Jeanine Santucci, Christal Hayes",
+            "title": "'Absolutely devastating': Wind-driven Colorado wildfires burn hundreds of homes near Boulder - USA TODAY",
+            "description": "About 600 homes, a Target shopping complex and a hotel have been destroyed by fire in the area, according to Boulder County Sheriff Joe Pelle.",
+            "url": "https://www.usatoday.com/story/news/nation/2021/12/30/boulder-wildfires-thousands-ordered-flee-their-homes-colorado/9057234002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/12/31/USAT/440eafaa-f619-4157-9dfe-36607524ee60-AP_APTOPIX_Colorado_Wildfires.jpg?crop=4972,2797,x0,y110&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2021-12-31T06:00:00Z",
+            "content": "BOULDER, Colo.  A ferocious wind-driven wildfire on Thursday destroyed hundreds of homes and businesses near Denver, forcing tens of thousands to flee and blanketing the area in smoke.\r\nThe high wind… [+5835 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Tesla recalls almost half a million electric cars over safety issues - Reuters",
+            "description": "Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> is recalling more than 475,000 of its Model 3 and Model S electric cars to address rearview camera and trunk issues that increase the risk of crashing, the U.S. road saf…",
+            "url": "https://www.reuters.com/business/autos-transportation/tesla-recalls-over-475000-electric-vehicles-2021-12-30/",
+            "urlToImage": "https://www.reuters.com/resizer/K0m04dztikZ5bZzBEUvXjdEeXIo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KFDWY3LTTVICVBDJKNPGOTM2RY.jpg",
+            "publishedAt": "2021-12-31T05:46:00Z",
+            "content": "SAN FRANCISCO, Dec 30 (Reuters) - Tesla Inc (TSLA.O) is recalling more than 475,000 of its Model 3 and Model S electric cars to address rearview camera and trunk issues that increase the risk of cras… [+2924 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Tom Tapp",
+            "title": "California’s New Covid Quarantine & Isolation Guidelines Are Stricter Than CDC’s - Deadline",
+            "description": "The U.S. Centers for Disease Control on Monday shortened the recommended isolation and quarantine guidelines for Americans who contract or are exposed to Covid-19 from 10 to five days. The move drew swift criticism from many experts, who questioned the logic …",
+            "url": "https://deadline.com/2021/12/california-covid-quarantine-isolation-guidelines-1234903013/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/04/AdobeStock_331123946.jpeg?w=1024",
+            "publishedAt": "2021-12-31T05:41:00Z",
+            "content": "The U.S. Centers for Disease Control on Monday shortened the recommended isolation and quarantine guidelines for Americans who contract or are exposed to Covid-19 from 10 to five days. The move drew … [+1790 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Phil Helsel",
+            "title": "Worker attacked by tiger at Florida zoo could face charges, officials say - NBC News",
+            "description": "A cleaning company employee who was injured by a tiger at a Florida zoo after he stuck his arm in the animal's enclosure could be criminally charged, officials said Thursday.",
+            "url": "https://www.nbcnews.com/news/us-news/worker-attacked-tiger-florida-zoo-face-charges-officials-say-rcna10508",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211229-Malayan-Tiger-Eko-naples-zoo-ac-1130p-de0bf4.jpg",
+            "publishedAt": "2021-12-31T04:57:00Z",
+            "content": "A cleaning worker at a Florida zoo who was attacked by a tiger after putting his arm into its enclosure could be criminally charged, authorities said Thursday.\r\nA Collier County sheriffs deputy fatal… [+1669 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Tom Fornelli",
+            "title": "Michigan State vs. Pittsburgh score: Sparty posts 21 fourth-quarter points in epic Peach Bowl 2021 comeback - CBSSports.com",
+            "description": "An epic come-from-behind win by Michigan State included a game-clinching pick six in the final seconds",
+            "url": "https://www.cbssports.com/college-football/news/michigan-state-vs-pittsburgh-score-sparty-posts-21-fourth-quarter-points-in-epic-peach-bowl-2021-comeback/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/12/31/dfdfe099-5980-4aa1-b40e-872925c395d5/thumbnail/1200x675/30e90a1cd1b8621d2ea0b6df3f4fd9d2/michigan-state-spartans.jpg",
+            "publishedAt": "2021-12-31T04:40:00Z",
+            "content": "No. 10 Michigan State pulled off a 31-21 come-from-behind victory over No. 12 Pittsburgh on Thursday night, scoring 15 points over the final 3 minutes to pull off the epic win in the 2021 Peach Bowl.… [+2331 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Aisyah Llewellyn",
+            "title": "Rohingya refugees brought ashore after dramatic Indonesia rescue - Al Jazeera English",
+            "description": "The refugees – mostly women and children – were brought ashore at Lhokseumawe in Aceh after an 18-hour rescue operation.",
+            "url": "https://www.aljazeera.com/news/2021/12/31/rohingya-refugees-brought-ashore-in-indonesia-after-navy-rescue",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/12/IMG-20211231-WA0009-1.jpg?resize=1200%2C630",
+            "publishedAt": "2021-12-31T04:26:00Z",
+            "content": "Medan, Indonesia A standoff involving a boat carrying Rohingya refugees and the Indonesian navy has ended with a dramatic rescue that took 18 hours to complete due to heavy rains and high seas.\r\nThe … [+7490 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hammer and Rails"
+            },
+            "author": "Travis Miller",
+            "title": "2021 Music City Bowl: Purdue 48, Tennessee 45 In Tweets - Hammer and Rails",
+            "description": "What an incredible capper to the season.",
+            "url": "https://www.hammerandrails.com/2021/12/30/22860894/2021-music-city-bowl-purdue-48-tennessee-45-twitter-recap",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/fz84GyeI0ptH5rt66Np2TmR5lm0=/0x0:5472x2865/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23135797/1237477932.jpg",
+            "publishedAt": "2021-12-31T04:13:44Z",
+            "content": "Wow.\r\nI mean, wow. \r\nI didnt get to watch much of the second half. A long work day had me driving home from Kentwood, Michigan listening to the entire second half on the radio, but I had the car to m… [+3528 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kevin Liptak, CNN",
+            "title": "Biden pushes Putin for Ukraine de-escalation in second call this month - CNN",
+            "description": "President Joe Biden urged his Russian counterpart, Vladimir Putin, on Thursday to take steps to ease an unremitting crisis on Russia's border with Ukraine, warning again of dire economic consequences should Putin proceed with an invasion.",
+            "url": "https://www.cnn.com/2021/12/30/politics/biden-putin-phone-call/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211230103953-biden-putin-call-123021-super-tease.jpg",
+            "publishedAt": "2021-12-31T03:36:00Z",
+            "content": "Washington (CNN)President Joe Biden urged his Russian counterpart, Vladimir Putin, on Thursday to take steps to ease an unremitting crisis on Russia's border with Ukraine, warning again of dire econo… [+7044 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kareem Khadder and Celine Alkhaldi, CNN",
+            "title": "At least four anti-coup protesters shot dead in Sudan as security forces raid broadcasters - CNN",
+            "description": "At least four people were shot dead by Sudanese security forces during anti-coup demonstrations near the capital Khartoum on Thursday, the civilian-allied Sudanese Central Doctors Committee (SCDC) said.",
+            "url": "https://www.cnn.com/2021/12/30/africa/sudan-anti-military-protests-intl/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211230130349-01-sudan-protests-khartoum-1230-super-tease.jpg",
+            "publishedAt": "2021-12-31T03:10:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "XDA Developers"
+            },
+            "author": "Adam Conway",
+            "title": "Samsung Galaxy S22 Ultra render confirms yet again that it’s basically a Galaxy Note - XDA Developers",
+            "description": "The Samsung Galaxy S22 Ultra has seemingly leaked yet again, and this render appears to confirm that it's basically just a Galaxy Note.",
+            "url": "https://www.xda-developers.com/samsung-galaxy-s22-ultra-product-render/",
+            "urlToImage": "https://www.xda-developers.com/files/2021/12/samsung-galaxy-s22-ultra-feature-image.jpg",
+            "publishedAt": "2021-12-31T03:07:00Z",
+            "content": "We’re getting pretty close to the official unveiling of the Galaxy S22 series. The phones will probably arrive in February, but the first renders of the Galaxy S22 Ultra and even live images have alr… [+1958 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Tom Tapp",
+            "title": "Tiffini Hale Dies: ‘All New Mickey Mouse Club’ And The Party Band Member Was 46 - Deadline",
+            "description": "Tiffini Hale, one of the original castmembers on The All New Mickey Mouse Club and part of the Disney-created pop group The Party has died, according to her costars and bandmates. Hale was 46. The actress and singer “suffered a cardiac arrest that resulted in…",
+            "url": "https://deadline.com/2021/12/tiffini-hale-dead-mickey-mouse-club-party-1234903002/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2021/12/Screen-Shot-2021-12-30-at-5.45.32-PM.png?w=222",
+            "publishedAt": "2021-12-31T03:06:00Z",
+            "content": "Tiffini Hale, one of the original castmembers on The All New Mickey Mouse Club and part of the Disney-created pop group The Party has died, according to her costars and bandmates. Hale was 46.\r\nThe a… [+2604 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": "By ABC7.com staff",
+            "title": "LA County COVID data show stark difference between vaccinated and unvaccinated - KABC-TV",
+            "description": "New LA County data shows a sharp difference in death and hospitalization rates in those who have been vaccinated for COVID versus those who have not.",
+            "url": "https://abc7.com/covid-19-vaccine-los-angeles-county-coronavirus-dr-barbara-ferrer-la-public-health/11408759/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/11408792_123021-kabc-vaccine-generic-img.jpg?w=1600",
+            "publishedAt": "2021-12-31T02:56:18Z",
+            "content": "LOS ANGELES (KABC) -- Los Angeles County reported more than 20,000 new COVID-19 cases in one day on Thursday - but as grim as that news sounds, new data also shows how effective vaccines have been at… [+2623 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Los Angeles Times"
+            },
+            "author": "Gregory Yee",
+            "title": "California storm: State of emergency declared in 20 counties - Los Angeles Times",
+            "description": "After heavy rain and snow in California, the emergency proclamation will support response and recovery efforts, including aid for highway repairs.",
+            "url": "https://www.latimes.com/california/story/2021-12-30/california-storm-related-state-of-emergency",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/e11f6eb/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F17%2F5a%2F3a75b1ff4d36a4bf7416749ac231%2Fla-photos-1staff-894434-me-laweather-yearend-storm-04-mjc.jpg",
+            "publishedAt": "2021-12-31T02:42:00Z",
+            "content": "Gov. Gavin Newsom declared a state of emergency in 20 California counties on Thursday as winter storms continued to lash the state with record snow and rainfall that have knocked out power, shut down… [+1673 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "James Hill, Sasha Pezenik",
+            "title": "Brother of Ghislaine Maxwell says crimes against Epstein accusers 'were not committed by my sister' - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/US/brother-ghislaine-maxwell-crimes-epstein-accusers-committed-sister/story?id=82010215",
+            "urlToImage": "https://s.abcnews.com/images/US/ghislaine-maxwell-siblings-rt-jt-211230_1640908626683_hpMain_16x9_992.jpg",
+            "publishedAt": "2021-12-31T02:28:09Z",
+            "content": "The brother of Ghislaine Maxwell says that he denies any possibility that his sister is guilty of the sex trafficking crimes she was convicted of on Wednesday.\r\nKevin Maxwell, in an American televisi… [+2932 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investing.com"
+            },
+            "author": "Investing.com",
+            "title": "Asian Stocks Up, Chinese Data Exceeds Expectations By Investing.com - Investing.com",
+            "description": "Asian Stocks Up, Chinese Data Exceeds Expectations",
+            "url": "https://www.investing.com/news/stock-market-news/asian-stocks-up-chinese-data-exceeds-expectations-2727839",
+            "urlToImage": "https://i-invdn-com.investing.com/news/LYNXMPEB3M001_L.jpg",
+            "publishedAt": "2021-12-31T02:10:00Z",
+            "content": "By Gina Lee\r\nInvesting.com Asia Pacific stocks were mostly up on Friday morning, potentially boosted by better-than-expected Chinese data and a rally in U.S.-listed Chinese equities. Trade was thin, … [+2201 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": null,
+            "title": "End of an era: BlackBerry ends support for all its classic smartphones - 9to5Mac",
+            "description": "To officially put an end to an era, BlackBerry announced it will end support for the classic BlackBerry smartphones that run BlackBerry OS.",
+            "url": "https://9to5mac.com/2021/12/30/end-of-an-era-blackberry-ends-support-for-all-its-classic-smartphones/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/12/BlackBerry.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2021-12-31T01:58:00Z",
+            "content": "iPhone today is considered one of the most popular smartphones on the market, but back in the 2000s, BlackBerry phones were probably one of the coolest devices anyone could get. Although the old Blac… [+2573 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Jessica Bennett",
+            "title": "Jack Osbourne engaged to interior designer Aree Gearhart - Page Six",
+            "description": "“Life is a series of doors and I’m so excited to walk through this one with her. She’s truly a magical being with a heart bigger then anything I could have imagined.”",
+            "url": "https://pagesix.com/2021/12/30/jack-osbourne-engaged-to-interior-designer-aree-gearhart/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2021/12/jack-osbourne-aree-gearhart.jpeg?quality=90&strip=all&w=1200",
+            "publishedAt": "2021-12-31T01:48:00Z",
+            "content": "He’s running on the rails of the Aree train.\r\nJack Osbourne will soon be a groom once more, as the father of three is now engaged to interior designer Aree Gearhart. \r\n“Today I asked the most beautif… [+1666 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Celina Tebor, USA TODAY",
+            "title": "Colorado Gov. Jared Polis cuts truck driver's sentence from 110 to 10 years for fatal 2019 crash - USA TODAY",
+            "description": "Colorado Gov. Jared Polis called the 110-year sentence for Rogel Aguilera-Mederos \"arbitrary and unjust\" in his commutation letter.",
+            "url": "https://www.usatoday.com/story/news/nation/2021/12/30/colorado-rogel-aguilera-mederos-110-year-sentence/9059174002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/12/27/USAT/6e7328ae-cb8b-486a-ad3a-5964e1dcdc1f-AP21356772597797.jpg?auto=webp&crop=2783,1565,x0,y141&format=pjpg&width=1200",
+            "publishedAt": "2021-12-31T01:45:41Z",
+            "content": "Colorado Gov. Jared Polis has reduced a 110-year sentence to 10 years for a truck driver who killed four people in 2019 after he said his brakes gave out. \r\nPolis announced Rogel Aguilera-Mederos' co… [+1943 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "South Africa lifts curfew as it says COVID-19 fourth wave peaks - Reuters",
+            "description": "South Africa has lifted a midnight to 4 a.m. curfew on people's movement with immediate effect, believing the country has passed the peak of its fourth COVID-19 wave driven by the Omicron variant, a government statement said on Thursday.",
+            "url": "https://www.reuters.com/world/africa/safrica-lifts-curfew-it-says-covid-19-fourth-wave-peaks-2021-12-30/",
+            "urlToImage": "https://www.reuters.com/resizer/EZ5Pqx58Gvf-hHl9LoAp3ataLn0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I5J43TTBBRLXZL3KDDZ36NIUXA.jpg",
+            "publishedAt": "2021-12-31T01:34:00Z",
+            "content": "CAPE TOWN, Dec 30 (Reuters) - South Africa has lifted a midnight to 4 a.m. curfew on people's movement with immediate effect, believing the country has passed the peak of its fourth COVID-19 wave dri… [+1894 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": null,
+            "title": "Burlington store shooting: Officer William Jones ID'ed as LAPD officer involved in fatal shooting of Valentina Orellana Peralta - KABC-TV",
+            "description": "The LAPD ID'ed Officer William Jones as the officer involved in the fatal shooting of Valentina Orellana Peralta at the Burlington in North Hollywood.",
+            "url": "https://abc7.com/officer-william-jones-lapd-burlington-shooting-valentina-orellana-peralta/11408438/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/11408451_123021-kabc-3pm-burlington-shooting-vid.jpg?w=1600",
+            "publishedAt": "2021-12-31T01:30:42Z",
+            "content": "NORTH HOLLYWOOD, LOS ANGELES (CNS) -- The Los Angeles Police Department on Thursday released the name of the officer involved in the shooting at a North Hollywood Burlington store that killed an assa… [+2620 chars]"
+        }
+    ]
+}
